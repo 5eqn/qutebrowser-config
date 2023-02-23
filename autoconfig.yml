@@ -20,6 +20,10 @@ settings:
     global: '#1d1f21'
   colors.tabs.selected.odd.bg:
     global: '#1d1f21'
+  colors.webpage.darkmode.contrast:
+    global: 0.0
+  colors.webpage.darkmode.enabled:
+    global: true
   editor.command:
     global:
     - nvim
